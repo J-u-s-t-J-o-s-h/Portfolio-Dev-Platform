@@ -1,0 +1,5 @@
+mkdir -p src/components/landing
+npm run build
+npm start 
+npm uninstall framer-motion
+npm install framer-motion@latest 
